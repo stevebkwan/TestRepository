@@ -1,0 +1,1 @@
+[![Board Status](https://dev.azure.com/E-OSUAT/cf6f57e4-e5bc-4cca-acf5-072279def755/9ce2de15-e8d7-429a-aa36-0c8a1ff2210f/_apis/work/boardbadge/bf5f9e81-2d2f-40bb-908b-1cefde849275)](https://dev.azure.com/e-osuat/cf6f57e4-e5bc-4cca-acf5-072279def755/_boards/board/t/9ce2de15-e8d7-429a-aa36-0c8a1ff2210f/Microsoft.UserStoryCategory/)
