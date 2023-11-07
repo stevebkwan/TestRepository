@@ -15,6 +15,7 @@ jobs:
       - uses: danhellem/github-actions-issue-to-work-item@master
         env:
           ado_token: "${{ secrets.ADO_PERSONAL_ACCESS_TOKEN }}"
+          git_token: "${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}"
           ado_organization: "msftdevicesuat"
           ado_project: "Devices"
           ado_area_path: "Devices\\SW\\Drivers"
